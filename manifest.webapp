@@ -1,7 +1,7 @@
 {
   "version": "0.1",
   "name": "WS1",
-  "description": "WS1 Firefox OS aplikacija",
+  "description": "WS1 Firefox OS aplikacija.",
   "launch_path": "/index.html",
   "icons": {
     "16": "/img/icon/icon-16.png",
