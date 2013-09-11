@@ -6,4 +6,5 @@ Licencirano pod uslovima GPL v3 licence.
 
 ## Testiranje
 
-Pokrenite aplikaciju u simulatoru.
+Pokrenite aplikaciju u simulatoru. Možete je preuzeti sa
+[Firefox Marketplace](https://marketplace.firefox.com/app/ws1)-a.
