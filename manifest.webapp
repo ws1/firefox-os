@@ -3,16 +3,22 @@
   "name": "WS1",
   "description": "WS1 Firefox OS aplikacija.",
   "launch_path": "/index.html",
+
   "icons": {
     "30": "/img/icon/icon-30.png",
     "60": "/img/icon/icon-60.png",
     "128": "/img/icon/icon-128.png"
   },
-  "chrome": { "navigation": true },
+
+  "chrome": {
+    "navigation": true
+  },
+
   "developer": {
     "name": "Zlatan Vasović",
     "url": "http://zdroid.github.io"
   },
+
   "installs_allowed_from": ["*"],
   "default_locale": "sr"
 }
