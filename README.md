@@ -2,7 +2,7 @@
 
 **WS1 Firefox OS aplikacija**
 
-Licencirano pod uslovima GPL v3 licence.
+Licencirano pod GPL v3 licencom.
 
 ## Preuzimanje
 
