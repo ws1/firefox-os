@@ -11,5 +11,5 @@ Aplikaciju možete preuzeti sa
 
 ## Doprinos
 
-Sve probleme vezani za aplikaciju možete
+Sve probleme vezane za aplikaciju možete
 [prijaviti](https://github.com/ws1/firefox-os/issues/new) na issue tracker-u.
