@@ -1,6 +1,4 @@
-# ws1/firefox-os
-
-**WS1 Firefox OS aplikacija**
+# WS1 Firefox OS aplikacija
 
 Licencirano pod GPL v3 licencom.
 
