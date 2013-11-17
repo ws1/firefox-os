@@ -1,4 +1,6 @@
-# WS1 Firefox OS aplikacija
+# wffy
+
+**WS1 Firefox OS aplikacija**
 
 Licencirano pod GPL v3 licencom.
 
