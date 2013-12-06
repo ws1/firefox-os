@@ -12,4 +12,4 @@ Aplikaciju možete preuzeti sa
 ## Doprinos
 
 Sve probleme vezane za aplikaciju možete
-[jednostavno prijaviti](https://github.com/ws1/firefox-os/issues/new).
+[prijaviti](https://github.com/ws1/firefox-os/issues/new).
