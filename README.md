@@ -1,3 +1,5 @@
+**!** Repozitorijum se ne održava više.
+
 # wffy
 
 **WS1 Firefox OS aplikacija**
