@@ -10,8 +10,3 @@ Licencirano pod GPL v3 licencom.
 
 Aplikaciju možete preuzeti sa
 [Firefox Marketplace](https://marketplace.firefox.com/app/ws1)-a.
-
-## Doprinos
-
-Sve probleme vezane za aplikaciju možete
-[prijaviti](https://github.com/ws1/firefox-os/issues/new).
