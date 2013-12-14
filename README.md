@@ -1,8 +1,8 @@
-**!** Repozitorijum se ne održava više.
+**Razvoj projekta je zaustavljen**
 
 # wffy
 
-**WS1 Firefox OS aplikacija**
+> WS1 Firefox OS aplikacija
 
 Licencirano pod GPL v3 licencom.
 
