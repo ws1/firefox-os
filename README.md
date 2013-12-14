@@ -1,4 +1,4 @@
-**Razvoj projekta je zaustavljen**
+**Razvoj projekta je zaustavljen.**
 
 # wffy
 
