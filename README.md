@@ -1,12 +1,12 @@
-**Razvoj projekta je zaustavljen.**
-
 # wffy
 
-> WS1 Firefox OS aplikacija
+> @ws1 Firefox OS app
 
-Licencirano pod GPL v3 licencom.
+## Download
 
-## Preuzimanje
+You can download app from
+[Firefox Marketplace](https://marketplace.firefox.com/app/ws1).
 
-Aplikaciju možete preuzeti sa
-[Firefox Marketplace](https://marketplace.firefox.com/app/ws1)-a.
+## License
+
+MIT &copy; [ws1 team](https://github.com/ws1)
