@@ -1,0 +1,41 @@
+/*!
+ * Feed decorations
+ */
+
+body {
+  font-family: sans-serif;
+  font-size: 15px;
+  padding: 2%;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 35px;
+  font-weight: normal;
+  color: #b52b27;
+}
+
+.feedEkList {
+  padding: 0;
+  color: #555;
+  list-style: none;
+  background-color: #fff;
+}
+
+.feedEkList li {
+  margin-bottom: 15px;
+}
+
+.itemTitle a {
+  font-size: 25px;
+  color: #d9534f;
+  text-decoration: none;
+}
+
+.itemTitle a:hover {
+  text-decoration: underline;
+}
+
+.itemDate {
+  color: #aaa;
+}

@@ -7,14 +7,14 @@
   "description": "ws1 Firefox OS app",
   "version": "0.1.0",
 
-  "installs_allowed_from": ["*"],
-  "default_locale": "sr",
+  "installs_allowed_from": "*",
+  "default_locale": "en",
 
   "launch_path": "/index.html",
   "icons": {
-    "30": "/img/icon-30.png",
-    "60": "/img/icon-60.png",
-    "128": "/img/icon-128.png"
+    "30": "/assets/img/icon-30.png",
+    "60": "/assets/img/icon-60.png",
+    "128": "/assets/img/icon-128.png"
   },
 
   "chrome": {
